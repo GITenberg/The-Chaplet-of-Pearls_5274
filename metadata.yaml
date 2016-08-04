@@ -1,0 +1,29 @@
+_repo: The-Chaplet-of-Pearls_5274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: A romance of French history, 1572.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Saint Bartholomew''s Day, Massacre of, France, 1572 -- Fiction'
+- GITenberg
+title: The Chaplet of Pearls
+url: http://www.gutenberg.org/ebooks/5274
